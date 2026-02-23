@@ -1,9 +1,9 @@
-# 📚 Library Management System
+#Library Management System
 A web-based Library Management System built using PHP, MySQL, HTML, CSS, and JavaScript.
 
 This project allows administrators to manage books, users, and borrowing transactions, while students can browse books, borrow available copies, and view their borrowing history.
 
-### ✨ Features
+###Features
 - Admin Dashboard
 - Book Management with Cover Images
 - Borrow & Return System
@@ -12,11 +12,11 @@ This project allows administrators to manage books, users, and borrowing transac
 - Borrow History & Transactions
 - Modern Glass UI Design
 
-### 🛠️ Technologies Used
+###Technologies Used
 - PHP (Core PHP / MVC-style structure)
 - MySQL (phpMyAdmin / XAMPP)
 - HTML, CSS, JavaScript
 - XAMPP Local Server
 
-### 👨‍🎓 Project Purpose
-This project was developed as a BSIT academic project to practice full-stack web development and database integration.
+### Project Purpose
+This Library Management System was created to modernize our school’s library by digitizing book records and providing an accessible E‑Library platform. It aims to improve efficiency, support students and teachers in accessing resources, and replace outdated manual processes with a user‑friendly system.
